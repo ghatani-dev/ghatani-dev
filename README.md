@@ -8,10 +8,10 @@ I'm a passionate software engineer and team lead with over 10 years of experienc
 - 💼 **Current Role:** Team Lead at Netspeq Solution
 - 💻 **Tech Stack:** 
   - **Languages:** C#, SQL, JavaScript
-  - **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework Core, React.js (beginner)
+  - **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework Core, React.js
   - **APIs:** RESTful API design and development with .NET
   - **Databases:** SQL Server, MySQL
-  - **DevOps:** Azure, Docker (beginner)
+  - **DevOps:** Azure, Docker 
   - **Tools:** Visual Studio, Git, Jenkins
 - 📚 **Learning:** Diving deeper into DevOps with Azure, Docker, and CI/CD practices.
 - 📝 **Content Creation:** I enjoy sharing my learning journey and insights on [LinkedIn](https://www.linkedin.com/in/ujjwal-singh-03446b21b/) and [Hashnode](https://ujjwal-ghatani-dev.hashnode.dev/).
