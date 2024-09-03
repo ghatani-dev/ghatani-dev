@@ -33,6 +33,7 @@ I'm a passionate software engineer and team lead with over 10 years of experienc
 
 - **[CQRS](https://ujjwal-ghatani-dev.hashnode.dev/understanding-cqrs-simplifying-your-code-by-splitting-responsibilities):** Understanding CQRS: Simplifying Your Code by Splitting Responsibilities
 - **[LaunchSettings.json](https://ujjwal-ghatani-dev.hashnode.dev/understanding-launchsettingsjson-in-aspnet-core-a-comprehensive-guide):** Understanding LaunchSettings.json in ASP.NET Core: A Comprehensive Guide
+- **[Inversion of Control (IoC) and Dependency Injection (DI)](https://ujjwal-ghatani-dev.hashnode.dev/mastering-inversion-of-control-ioc-and-dependency-injection-di-with-real-world-examples-net-core):** Mastering Inversion of Control (IoC) and Dependency Injection (DI) with Real-World Examples .Net Core
 
 
 ## 💬 Let's Chat
